@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+'''Module to return pascal triangle'''
+
+#!/usr/bin/python3
 """
 0-main
 """
