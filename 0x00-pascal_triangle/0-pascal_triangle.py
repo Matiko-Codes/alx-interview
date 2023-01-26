@@ -18,3 +18,4 @@ def pascal_triangle(n):
             # fill in value of each element using the formula for Pascal's triangle
             triangle[i][j] = triangle[i-1][j-1] + triangle[i-1][j]
     return triangle
+    
