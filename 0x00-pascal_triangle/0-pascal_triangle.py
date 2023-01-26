@@ -4,7 +4,7 @@
 
 def pascal_triangle(n):
     """
-    Function that returns a list of lists of integers representing the Pascal's triangle of n.
+    Function returning list of lists of integers of the Pascal's triangle of n.
     If n <= 0, an empty list is returned.
     """
     if n <= 0:
