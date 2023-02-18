@@ -2,6 +2,7 @@
 """
 module contains a script that reads stdin line by line and computes metrics
 """
+
 import sys
 
 status_codes = ["200", "301", "400", "401", "403", "404", "405", "500"]
